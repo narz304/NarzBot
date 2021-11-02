@@ -1,1 +1,10 @@
-
+{
+	"prefijo": ".",
+	"BotControlador": "+5016044725@s.whatsapp.net",
+	"CoCreador": "Matt_M",
+	"VCardX": "+5016044725",
+	"VCardY": "+501 604-4725",
+	"NombreBot": "NarzBot",
+	"LimiteEnGrupos": "300",
+	"LimiteComandos": "666999",
+}
